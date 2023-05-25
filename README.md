@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @player400
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello! My name is Mateusz Nurczyński. I am a Computer Engineering student at Gdańsk University of Technology.
 
-<!---
-player400/player400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-PS. Im bad in programming and my only repo is a joke, so I've left the readme note on default. Just letting you know.
+On this GitHub I am going to post code repos related to some of my personal passion projects as well as university assignments.
+If you find any of my work interesting, feel free to email me at mnurczynski4@gmail.com or s193053@student.pg.edu.pl
